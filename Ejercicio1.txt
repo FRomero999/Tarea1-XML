@@ -1,5 +1,5 @@
 Ejercicio de prácticas para el tema 3 de Lenguajes de Marca.
-La fecha tope de resolución es el 1 de Febrero
+La fecha tope de resolución es el 1 de Octubre
 
 ...
 ..
